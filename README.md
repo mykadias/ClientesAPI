@@ -6,7 +6,7 @@
 2. Maven
 3. JPA/Hibernate
 4. HTML-CSS-JS
-5. JQuery
+5. Json Web Tokens (JWT)
 6. Angular
 7. Swagger (documentação)
 8. PostgreSQL
