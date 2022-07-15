@@ -9,4 +9,5 @@
 5. JQuery
 6. Angular
 7. Swagger (documentação)
+8. PostgreSQL
 
